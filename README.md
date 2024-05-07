@@ -6,9 +6,13 @@ Juste un jeu de labyrinthe cool où vous pouvez tuer des monstres et gagner des 
 
 1. Clonez ce dépôt sur votre machine locale.
 2. Installez les dépendances avec pip : `pip install -r requirements.txt`
-4. Exécutez la commande : `python main.py`
+3. Exécutez la commande : `python main.py`
 
-## Copyright 2024 @personne14 & @KmzmK.
+## Origine du projet
+
+Ce projet est très fortement inspiré de la vidéo [Creating a Zelda style game in Python \[with some Dark Souls elements\]](https://www.youtube.com/watch?v=QU1pPzEGrqw).
+
+## Copyright @personne14 & @KmzmK.
 
 Tous droits réservés.
 
